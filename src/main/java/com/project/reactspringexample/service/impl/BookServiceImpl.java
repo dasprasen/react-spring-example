@@ -20,7 +20,7 @@ public class BookServiceImpl implements BookService {
 		book.setId(bookId);
 		book.setTitle("Spring book");
 		book.setAuthor("John Campbell");
-		book.setCoverPhotoURL("https://www.amazon.in/Getting-started-Spring-Framework-Ashish-ebook/dp/B00AM24AN4");
+		book.setCoverPhotoURL("https://img2.pngio.com/book-digital-ebook-education-electronic-online-read-icon-online-book-png-512_512.png");
 		book.setIsbnNumber(1617212129L);
 		book.setPrice(2000.00);
 		book.setLanguage("English");
